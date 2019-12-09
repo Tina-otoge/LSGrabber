@@ -29,4 +29,4 @@ Options:
 ```
 ln -s ~/Repositories/LSGrabber/lsgrabber.sh ~/.local/bin/lsgrabber
 ```
-This unsures that the script is updated altogether when you run ̀`git pull`
+This unsures that the script is updated altogether when you run `git pull`
