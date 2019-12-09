@@ -25,7 +25,7 @@ Options:
 
 - You can either move the script to a folder in your PATH like `~/.local/bin` or
 
-- You can symlink this script as ̀`lsgrabber` in a folder in your PATH like so:
+- You can symlink this script as `lsgrabber` in a folder in your PATH like so:
 ```
 ln -s ~/Repositories/LSGrabber/lsgrabber.sh ~/.local/bin/lsgrabber
 ```
